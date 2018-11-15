@@ -1,6 +1,6 @@
 package Naive;
 
-public class _484_SwapTwoIntegersInArray {
+public class _0484_SwapTwoIntegersInArray {
     /**
      * @param A:      An integer array
      * @param index1: the first index

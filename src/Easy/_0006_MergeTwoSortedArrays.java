@@ -1,6 +1,6 @@
 package Easy;
 
-public class _6_MergeTwoSortedArrays {
+public class _0006_MergeTwoSortedArrays {
     /**
      * @param A: sorted integer array A
      * @param B: sorted integer array B

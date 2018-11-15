@@ -1,13 +1,13 @@
 package Naive;
 
-public class _454_RectangleArea {
+public class _0454_RectangleArea {
     public int width;
     public int height;
 
     /*
      * Define a constructor which expects two parameters width and height here.
      */
-    public _454_RectangleArea(int a, int b) {
+    public _0454_RectangleArea(int a, int b) {
         this.width = a;
         this.height = b;
     }
@@ -22,7 +22,7 @@ public class _454_RectangleArea {
 
 
     public static void main(String[] args) {
-        _454_RectangleArea rec = new _454_RectangleArea(3, 4);
+        _0454_RectangleArea rec = new _0454_RectangleArea(3, 4);
         System.out.println(rec.getArea()); // should get 12
     }
 }

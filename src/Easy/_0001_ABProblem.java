@@ -1,6 +1,6 @@
 package Easy;
 
-public class _1_ABProblem {
+public class _0001_ABProblem {
     /**
      * @param a: An integer
      * @param b: An integer

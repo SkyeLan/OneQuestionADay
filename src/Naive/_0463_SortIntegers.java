@@ -1,6 +1,6 @@
 package Naive;
 
-public class _463_SortIntegers {
+public class _0463_SortIntegers {
     public static void maopaoSort(int[] A) {
         for (int i = 0; i < A.length; i++) {
             for (int j = i; j < A.length; j++) {

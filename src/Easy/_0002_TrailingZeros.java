@@ -1,6 +1,6 @@
 package Easy;
 
-public class _2_TrailingZeros {
+public class _0002_TrailingZeros {
     /*
      * @param n: An integer
      * @return: An integer, denote the number of trailing zeros in n!
