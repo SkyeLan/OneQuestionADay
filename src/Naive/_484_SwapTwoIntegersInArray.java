@@ -1,3 +1,5 @@
+package Naive;
+
 public class _484_SwapTwoIntegersInArray {
     /**
      * @param A:      An integer array

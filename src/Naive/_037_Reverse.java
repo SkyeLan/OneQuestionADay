@@ -1,3 +1,5 @@
+package Naive;
+
 public class _037_Reverse {
     public static void main(String[] args) {
         int number = 123;

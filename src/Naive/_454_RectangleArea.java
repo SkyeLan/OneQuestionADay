@@ -1,3 +1,5 @@
+package Naive;
+
 public class _454_RectangleArea {
     public int width;
     public int height;

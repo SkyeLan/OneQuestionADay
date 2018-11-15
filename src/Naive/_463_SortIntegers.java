@@ -1,3 +1,5 @@
+package Naive;
+
 public class _463_SortIntegers {
     public static void maopaoSort(int[] A) {
         for (int i = 0; i < A.length; i++) {
@@ -10,7 +12,6 @@ public class _463_SortIntegers {
             }
         }
     }
-
     public static void main(String[] args) {
         int[] A = new int[]{3, 2, 1, 4, 5};
         maopaoSort(A);

@@ -1,3 +1,5 @@
+package Naive;
+
 public class _366_Fibonacci {
     public static void main(String[] args) {
         System.out.println(fibonacci(10));

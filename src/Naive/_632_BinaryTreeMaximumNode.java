@@ -1,3 +1,5 @@
+package Naive;
+
 public class _632_BinaryTreeMaximumNode {
     public int val;
     public _632_BinaryTreeMaximumNode left, right;

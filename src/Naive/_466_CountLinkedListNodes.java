@@ -1,3 +1,5 @@
+package Naive;
+
 public class _466_CountLinkedListNodes {
     int val;
     _466_CountLinkedListNodes next;
