@@ -18,6 +18,7 @@ public class _454_RectangleArea {
         return width * height;
     }
 
+
     public static void main(String[] args) {
         _454_RectangleArea rec = new _454_RectangleArea(3, 4);
         System.out.println(rec.getArea()); // should get 12
